@@ -1,0 +1,22 @@
+{
+  "titolo": "Fogli Volanti",
+  "sottotitolo": "appunti, video e pensieri sparsi",
+  "logo": "assets/logo-fogli-volanti.png",
+  "firma": "assets/logo-anto.png",
+  "icona": "assets/favicon.png",
+  "autore": "Anto",
+  "descrizione": "Fogli Volanti di Anto: appunti, video e pensieri sparsi, raccolti in fascicoli.",
+  "intro": "Qui raccolgo i fogli che mi volano intorno: appunti, video, episodi del podcast e idee che non voglio perdere. Apri un fascicolo e sfoglia.",
+  "ultimiFogli": 6,
+  "piede": "© 2026 Anto · Fogli Volanti",
+  "social": [
+    {
+      "nome": "YouTube",
+      "url": "https://www.youtube.com/@filmdbyanto"
+    },
+    {
+      "nome": "Instagram",
+      "url": "https://www.instagram.com/filmdbyanto"
+    }
+  ]
+}

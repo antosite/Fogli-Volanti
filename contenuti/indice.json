@@ -1,0 +1,244 @@
+{
+  "generato": "2026-11-07T22:33:26.391Z",
+  "sciolti": [
+    {
+      "slug": "benvenuto",
+      "titolo": "Benvenuto tra i Fogli Volanti",
+      "data": "2026-11-07",
+      "estratto": "Questo è un foglio sparso: sta direttamente sulla scrivania, fuori dai fascicoli. I fogli dentro le cartelle si possono sfogliare: aprine uno e usa le frecce ← → della tastiera, i…",
+      "copertina": null,
+      "tag": [
+        "benvenuto"
+      ],
+      "ordine": null,
+      "minuti": 1,
+      "file": "cartelle/benvenuto.md"
+    }
+  ],
+  "cartelle": [
+    {
+      "slug": "video",
+      "percorso": "video",
+      "titolo": "Video",
+      "descrizione": "Dietro le quinte dei video del canale, tra riprese, montaggio e attrezzatura.",
+      "testo": "",
+      "colore": "#5fbccc",
+      "etichetta": null,
+      "ordine": 1,
+      "fogli": [
+        {
+          "slug": "fare-chiarezza",
+          "titolo": "Fare chiarezza (il primo video)",
+          "data": "2026-11-05",
+          "estratto": "Il 2026 è stato un anno pesante. Smartphone sì o no, digitale o analogico: ho provato a mettere ordine nei pensieri.",
+          "copertina": {
+            "tipo": "video",
+            "src": "https://i.ytimg.com/vi/jNQXAC9IVRw/hqdefault.jpg",
+            "id": "jNQXAC9IVRw"
+          },
+          "tag": [
+            "video",
+            "riflessioni",
+            "digitale"
+          ],
+          "ordine": null,
+          "minuti": 1,
+          "file": "cartelle/video/fare-chiarezza.md"
+        },
+        {
+          "slug": "come-monto-un-video",
+          "titolo": "Come monto un video, dall'inizio alla fine",
+          "data": "2026-11-02",
+          "estratto": "Il montaggio è la parte che preferisco: è lì che il video prende davvero forma. Prima di tutto guardo tutto il girato e segno i momenti buoni. Non taglio ancora niente. metto in…",
+          "copertina": {
+            "tipo": "immagine",
+            "src": "immagini/scrivania.svg"
+          },
+          "tag": [
+            "montaggio",
+            "video"
+          ],
+          "ordine": null,
+          "minuti": 1,
+          "file": "cartelle/video/come-monto-un-video.md"
+        },
+        {
+          "slug": "attrezzatura",
+          "titolo": "L'attrezzatura che uso davvero",
+          "data": "2026-10-18",
+          "estratto": "Niente lista infinita: solo quello che porto sempre con me. L'audio conta più del video: si perdona un'immagine sgranata, non un audio che gracchia.",
+          "copertina": {
+            "tipo": "immagine",
+            "src": "immagini/scrivania.svg"
+          },
+          "tag": [
+            "attrezzatura"
+          ],
+          "ordine": null,
+          "minuti": 1,
+          "file": "cartelle/video/attrezzatura.md"
+        }
+      ],
+      "cartelle": []
+    },
+    {
+      "slug": "podcast",
+      "percorso": "podcast",
+      "titolo": "Podcast",
+      "descrizione": "Le note di ogni episodio, con link e approfondimenti.",
+      "testo": "",
+      "colore": "#ffbd59",
+      "etichetta": null,
+      "ordine": 2,
+      "fogli": [
+        {
+          "slug": "episodio-02",
+          "titolo": "Episodio 2 — Il tempo per creare",
+          "data": "2026-10-26",
+          "estratto": "Come trovare il tempo per i progetti personali quando la giornata è già piena. Poco ma spesso batte tanto ma raramente. Ascolta l'episodio e scrivimi cosa ne pensi.",
+          "copertina": {
+            "tipo": "immagine",
+            "src": "immagini/microfono.svg"
+          },
+          "tag": [
+            "podcast",
+            "episodio"
+          ],
+          "ordine": null,
+          "minuti": 1,
+          "file": "cartelle/podcast/episodio-02.md"
+        },
+        {
+          "slug": "episodio-01",
+          "titolo": "Episodio 1 — Un libro e la tecnologia moderna",
+          "data": "2026-10-05",
+          "estratto": "Il primo episodio di Fogli Volanti, tra le pagine di un libro e lo schermo del telefono.",
+          "copertina": {
+            "tipo": "immagine",
+            "src": "immagini/microfono.svg"
+          },
+          "tag": [
+            "podcast",
+            "episodio",
+            "libri"
+          ],
+          "ordine": null,
+          "minuti": 1,
+          "file": "cartelle/podcast/episodio-01.md"
+        }
+      ],
+      "cartelle": []
+    },
+    {
+      "slug": "appunti",
+      "percorso": "appunti",
+      "titolo": "Appunti",
+      "descrizione": "Note di lavoro, guide e cose da ricordare.",
+      "testo": "Questo fascicolo contiene anche una **sottocartella**: le cartelle possono stare una dentro l'altra, come in un vero archivio.",
+      "colore": null,
+      "etichetta": null,
+      "ordine": 3,
+      "fogli": [
+        {
+          "slug": "come-si-scrive-un-foglio",
+          "titolo": "Come si scrive un foglio",
+          "data": "2026-11-06",
+          "estratto": "Tutta la formattazione disponibile in un solo foglio, da tenere come promemoria.",
+          "copertina": {
+            "tipo": "immagine",
+            "src": "immagini/quaderno.svg"
+          },
+          "tag": [
+            "guida",
+            "markdown"
+          ],
+          "ordine": 1,
+          "minuti": 1,
+          "file": "cartelle/appunti/come-si-scrive-un-foglio.md"
+        },
+        {
+          "slug": "idee-sparse",
+          "titolo": "Idee sparse per i prossimi mesi",
+          "data": "2026-10-22",
+          "estratto": "Una lista che si allunga sempre, e va bene così. Una serie breve sul montaggio col telefono Episodio del podcast con un ospite Rifare la grafica delle copertine Raccogliere le…",
+          "copertina": null,
+          "tag": [
+            "idee"
+          ],
+          "ordine": null,
+          "minuti": 1,
+          "file": "cartelle/appunti/idee-sparse.md"
+        }
+      ],
+      "cartelle": [
+        {
+          "slug": "letture",
+          "percorso": "appunti/letture",
+          "titolo": "Letture",
+          "descrizione": "Libri e articoli che mi sono rimasti in testa.",
+          "testo": "",
+          "colore": "#a8dbe4",
+          "etichetta": null,
+          "ordine": null,
+          "fogli": [
+            {
+              "slug": "un-libro-sul-tempo",
+              "titolo": "Un libro sul tempo",
+              "data": "2026-09-14",
+              "estratto": "Questo foglio sta in una sottocartella (Appunti → Letture). Le cartelle possono stare una dentro l'altra quanto vuoi. Il tempo non si trova, si prende. Appunti sparsi della…",
+              "copertina": null,
+              "tag": [
+                "libri"
+              ],
+              "ordine": null,
+              "minuti": 1,
+              "file": "cartelle/appunti/letture/un-libro-sul-tempo.md"
+            }
+          ],
+          "cartelle": []
+        }
+      ]
+    }
+  ],
+  "pagine": [
+    {
+      "slug": "chi-sono",
+      "titolo": "Chi sono",
+      "data": null,
+      "estratto": "Ciao, sono Anto. Questa pagina è un esempio: le pagine stanno in contenuti/pagine/, appaiono nel menu in alto e appese in bacheca sulla scrivania. Scrivi qui chi sei e di cosa…",
+      "copertina": {
+        "tipo": "immagine",
+        "src": "immagini/quaderno.svg"
+      },
+      "tag": [],
+      "ordine": 1,
+      "minuti": 1,
+      "file": "pagine/chi-sono.md",
+      "menu": true
+    },
+    {
+      "slug": "ascolta",
+      "titolo": "Ascolta il podcast",
+      "data": null,
+      "estratto": "Fogli Volanti è il podcast in cui parlo un po' di tutto, senza una cadenza fissa. Esce in versione audio e in versione video. YouTube (versione video): @filmdbyanto Apple…",
+      "copertina": null,
+      "tag": [],
+      "ordine": 2,
+      "minuti": 1,
+      "file": "pagine/ascolta.md",
+      "menu": true
+    },
+    {
+      "slug": "contatti",
+      "titolo": "Contatti",
+      "data": null,
+      "estratto": "Per collaborazioni, idee o anche solo un saluto: Email: scrivi qui il tuo indirizzo YouTube: @filmdbyanto Instagram: @filmdbyanto",
+      "copertina": null,
+      "tag": [],
+      "ordine": 3,
+      "minuti": 1,
+      "file": "pagine/contatti.md",
+      "menu": true
+    }
+  ]
+}

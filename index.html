@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fogli Volanti</title>
+  <meta name="description" content="Fogli Volanti — appunti, video e pensieri sparsi.">
+  <link rel="icon" id="favicon" href="assets/favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Caveat:wght@500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-vista="home">
+  <header class="testata">
+    <a class="testata-marchio" href="#/">
+      <span class="logo-box"><img id="logo" class="logo" src="assets/logo-fogli-volanti.png" alt=""></span>
+      <span>
+        <strong id="testata-titolo">Fogli Volanti</strong>
+        <small id="testata-sotto"></small>
+      </span>
+    </a>
+    <nav id="menu" class="menu" aria-label="Pagine"></nav>
+    <form id="cerca" class="cerca" role="search">
+      <input id="cerca-campo" type="search" placeholder="Cerca tra i fogli…" aria-label="Cerca tra i fogli">
+    </form>
+  </header>
+
+  <main id="app" class="app">
+    <p class="caricamento">Raccolgo i fogli dalla scrivania…</p>
+  </main>
+
+  <footer id="piede" class="piede"></footer>
+
+  <script src="assets/markdown.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
