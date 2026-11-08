@@ -2,7 +2,7 @@
 titolo: "Episodio 1 — Nostalgia di una vita non vissuta"
 data: 2026-10-30
 tag: [podcast, episodio, libro, tecnologia, valore]
-copertina: immagini/Thumb_1.png
+copertina: immagini/podcast/Thumb_1.png
 estratto: Il primo episodio di Fogli Volanti, tutto parte da un libro di Matteo Bussola
 ---
 
