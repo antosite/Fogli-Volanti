@@ -1,12 +1,9 @@
 ---
-titolo: Benvenuto tra i Fogli Volanti
-data: 2026-11-07
-tag: [benvenuto]
+titolo: IA e non solo...
+data: 2026-11-08
+tag: [idee sparse]
 ---
 
-Questo è un **foglio sparso**: sta direttamente sulla scrivania, fuori dai fascicoli.
-
-I fogli dentro le cartelle si possono **sfogliare**: aprine uno e usa le frecce ← → della tastiera, i pulsanti in basso oppure fai scorrere il dito sul telefono. Il foglio vola via e sotto c'è il successivo.
-
-> [!idea] Da dove cominciare
-> Apri il fascicolo **Appunti** e leggi *Come si scrive un foglio*: c'è tutta la formattazione che puoi usare.
+Passare da ignorare l'IA a trovarla utile ma non essenziale.<br>
+Se vedo un altro video su come Claude può montare i video da solo... **Impazzisco!** 
+> [!idea] Provare a far generare la mia idea di sito/blog da Claude.
