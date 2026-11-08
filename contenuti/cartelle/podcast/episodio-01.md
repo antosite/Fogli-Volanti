@@ -1,5 +1,5 @@
 ---
-titolo: "Episodio 1 — Un libro e la tecnologia moderna"
+titolo: "Episodio 1 — Nostalgia di una vita non vissuta"
 data: 2026-10-30
 tag: [podcast, episodio, libro, tecnologia, valore]
 copertina: immagini/Thumb_1.png
