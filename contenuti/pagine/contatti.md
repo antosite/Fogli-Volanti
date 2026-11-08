@@ -5,6 +5,5 @@ ordine: 3
 
 Per collaborazioni, idee o anche solo un saluto:
 
-- **Email:** scrivi qui il tuo indirizzo
-- **YouTube:** [@filmdbyanto](https://www.youtube.com/@filmdbyanto)
-- **Instagram:** [@filmdbyanto](https://www.instagram.com/filmdbyanto)
+- **Commenta su YouTube:** [@filmdbyanto](https://www.youtube.com/@filmdbyanto)
+- **Scrivimi su Instagram:** [@foglivolanti.anto](https://www.instagram.com/foglivolanti.anto)
