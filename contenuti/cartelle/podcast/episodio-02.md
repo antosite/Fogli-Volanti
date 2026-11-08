@@ -14,6 +14,6 @@ In questa puntata di Fogli Volanti, forse un po' provocante, parlo di intelligen
 https://www.youtube.com/watch?v=ipcV_eYYV-k
 
 > [!idea] In breve
-> Ha senso essere sempre (e costantemente) produttivi.
+> Ha senso essere sempre (e costantemente) produttivi?
 
-Ascolta l'episodio e scrivimi cosa ne pensi?
+Ascolta l'episodio e scrivimi cosa ne pensi!
